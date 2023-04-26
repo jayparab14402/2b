@@ -1,0 +1,14 @@
+Mosaicking and Clipping
+11.Go to Layer  Add Layer  Add Raster Layer… Add .tif images.
+12.Go to Raster → Miscellaneous → Merge
+13.In the Merge dialog window provide input layers (select all layers and Press OK). Also, In Merge dialog window select a file name and location to save merged images. Press Run button and after successful execution click on close button.
+14.You can now deselect individual layers from layer pane and only keep the merged raster file
+15.Go to Layer→ Add Vector Layer → select “IND_adm0.shp file” from “Practical_No_2_Data\IndiaAdminBoundry” then click on Add button and close it.
+16.From layer properties → select Symbology → select any one of the following then click on Apply and ok buttons:
+17.Go to Raster → Extraction → Clip Raster by Mask Layer
+18.Select the merge raster image as input and Ind_adm0 as mask layer.
+19.Select a file name and location for clipped raster.
+20.Press RUN after successful execution click on Close button.
+ 
+
+
